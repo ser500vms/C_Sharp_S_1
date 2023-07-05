@@ -88,6 +88,17 @@ else
 Console.Write(i + ", ");
 }
 
+// Альтернативное решение задачи
+// Console.Write("Введите число: ");
+// int number = Convert.ToInt32(Console.ReadLine());
+// number = Math.Abs(number);
+//
+// for (int i = -number; i < number; i++)
+// {
+//    Console.Write(i + ", ");
+// }
+//  Console.Write(number);
+
 // Задача №5:
 // Напишите программу, которая принимает на вход трехзначное число 
 // и на выходе показывает последнюю цифру этого числа.
